@@ -19,7 +19,7 @@
 
 <br/>
 
-**Made with 💙 by [Chandraveer Singh](https://github.com/chandraveersingh)**  
+**Made with 💙 by [Chandraveer Singh](https://github.com/Polly49)**  
 🎓 **Indian Institute of Technology (BHU), Varanasi**
 
 </div>
@@ -309,7 +309,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib openpyxl
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/chandraveersingh/customer-segmentation-churn-analysis.git
+git clone https://github.com/Polly49/customer-segmentation-churn-analysis.git
 cd customer-segmentation-churn-analysis
 
 # 2. Place the dataset in the project root
@@ -376,8 +376,8 @@ openpyxl>=3.0.0
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-chandraveersingh-181717?style=for-the-badge&logo=github)](https://github.com/chandraveersingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chandraveersingh)
+[![GitHub](https://img.shields.io/badge/GitHub-Polly49-181717?style=for-the-badge&logo=github)](https://github.com/Polly49)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandraveer-singh-656706322/)
 
 <br/>
 
